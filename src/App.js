@@ -9,13 +9,13 @@ import SocialLinks from "./components/SocialLinks";
 function App() {
   return (
     <div className="App">
- <Navbar/>
- <Home/>
- <SocialLinks/>
- <About/>
- <PortFolio/>
- <Skills/>
- <Contact/>
+      <Navbar />
+      <Home />
+      <SocialLinks />
+      <About />
+      <PortFolio />
+      <Skills />
+      <Contact />
     </div>
   );
 }
